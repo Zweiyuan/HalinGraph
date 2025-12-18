@@ -3,7 +3,7 @@ These Halin graphs are used to illustrate.
 
 
 
-## 1. General Minimum Halin Graphs for $n\leq 25$.
+## 1. Minimum General Halin Graphs for $n\leq 25$.
 
 <div align=center>
 <img src="https://github.com/Zweiyuan/HalinGraph/blob/main/generalHalin25/H1_n%3D4.png"/>
@@ -128,7 +128,7 @@ These Halin graphs are used to illustrate.
 
 
 
-## 2. The minimum Halin Graphs with even vertices.
+## 2. The Minimum Cubic Halin Graphs of Order $n\leq 80$.
 
 
 <div align=center>
